@@ -1,0 +1,18 @@
+# Mac system files
+.DS_Store
+
+# md files
+erratum_draft.md
+
+# PDF files (Reference materials and R plot artifacts)
+*.pdf
+Rplots.pdf
+
+# Old/Backup folders
+done/
+erratum/
+
+# R specific ignores
+.Rhistory
+.RData
+.Ruserdata
