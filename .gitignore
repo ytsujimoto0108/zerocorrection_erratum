@@ -2,7 +2,7 @@
 .DS_Store
 
 # md files
-erratum_draft.md
+cover_letter_draft.md
 
 # PDF files (Reference materials and R plot artifacts)
 *.pdf
