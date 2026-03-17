@@ -2,17 +2,33 @@
 .DS_Store
 
 # md files
+erratum.md
 cover_letter_draft.md
+
+#docs files
+erratum.docx
+cover_letter.docx
 
 # PDF files (Reference materials and R plot artifacts)
 *.pdf
 Rplots.pdf
+Figure 1_revise.pdf
 
 # Old/Backup folders
 done/
 erratum/
+Tsutsumisan/
+rm5/
 
 # R specific ignores
 .Rhistory
 .RData
 .Ruserdata
+Screening_rm5_from_Tsutsumisan.R
+Screening_rm5_from_Tsutsumisan_tsujimoto_revise.R
+#PPT
+Figure 1_YT.pptx
+Figure 1_revise.pptx
+~$Figure 1_revise.pptx
+
+

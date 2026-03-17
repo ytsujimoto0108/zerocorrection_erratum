@@ -62,6 +62,10 @@ The characteristics of the included meta-analyses and the detailed size distribu
 \*The Mantel-Haenszel model with a fixed continuity correction, adding 0.5 to all cells of the 2x2 table, which is the model implemented in the RevMan software.
 †Small, ROR in the range of 0.9 to 1.11; Moderate, ROR in the range of 0.8 to 0.9 or 1.11 to 1.25; Large, ROR in the range of ≥1.25 or ≤0.8. ‡random effects inverse variance model with a fixed continuity correction, adding 0.5 to all cells of the 2x2 table. §random effects inverse variance model with the treatment arm continuity correction, ||the Mantel-Haenszel model without correction, ¶Bayesian random effects model using a binomial likelihood for the outcome. Abbreviations: ROR, ratio of odds ratios; MH, Mantel-Haenszel; REIV, random effects inverse variance; TACC, treatment arm continuity correction.*
 
+#### Updated Figure 1: Flow diagram of the present study.
+*(Please see the attached file `Figure 1_revise.svg` for the high-resolution vector image)*
+![Updated Figure 1](Figure%201_revise.svg)
+
 #### Updated Figure 2: Agreement in effect estimates obtained by each statistical method to deal with single-zero studies
 *(Please see the attached file `figure2_20260314.svg` for the high-resolution vector image)*
 ![Updated Figure 2](figure2_20260314.svg)
